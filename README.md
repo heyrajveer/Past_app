@@ -1,4 +1,5 @@
 Paste App - React + Vite + Tailwind CSS Template
+
 This Paste App is a React-based application built using Vite and styled with Tailwind CSS. It allows users to perform CRUD (Create, Read, Update, Delete) operations on notes. The app lets you add, paste, and copy notes, all of which are stored in the browser's local storage for persistence.
 
 Features
